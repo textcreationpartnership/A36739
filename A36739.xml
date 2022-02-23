@@ -1,0 +1,131 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Dutchess of Portsmouths and Count Coningsmarks farwel to England</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A36739</idno>
+            <idno type="STC">Wing D2426</idno>
+            <idno type="STC">ESTC R25567</idno>
+            <idno type="EEBO-CITATION">09015828</idno>
+            <idno type="OCLC">ocm 09015828</idno>
+            <idno type="VID">42242</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A36739)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42242)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1282:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Dutchess of Portsmouths and Count Coningsmarks farwel to England</title>
+               </titleStmt>
+               <extent>1 sheet.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Bayly,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Kéroualle, Louise-Renée de, --  Duchess of Portsmouth and Aubigny, 1649-1734.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:42242:1" rendition="simple:additions"/>
+            <head>THE <hi>Dutcheſs of Portſmouths</hi> AND Count Coningſmarks FARWEL TO ENGLAND.</head>
+            <p>BUt are you gone, and gone in good earneſt? All ill go with you; may you never return to diſturb our Peace; the diſcourſe of the Town is various, ſome ſay a Plotter and a Murtherer are gone hand in hand; if it be ſo, they need not Ballance their Ship, for their Sins are ſo weighty, that it's well for them if the Mar<g ref="char:EOLhyphen"/>riners do not cry out, they have got a <hi>Jonas</hi> and a <hi>Jezabel</hi> aboard: when the Billows rage, the winds blow rough, the Seas Foam, the ſhip dances, and the Seamen roar, oh what would they give for a Whale to carry them on Shore! I dare ſay one would give his embroidered Coat, and the other would give even all her honeſty and one of her Barrels of Guinies to boot: if the ſtorm ſhould but awaken her Di<g ref="char:EOLhyphen"/>ſtemper and his Conſeience, they would certainly cry out, that the Vengeance of God doth purſue them; then the one would part with his Confidence upon eaſie terms, and the other would as eaſily be per<g ref="char:EOLhyphen"/>ſwaded to come to Confeſſion. But I preſume the Count makes light account of his frolickſome Voyage, the ſeeds of Repentance are but <hi>Thynn</hi> in his Breaſt, but before <hi>Boraskie</hi> drops from his Chains, poſſibly the wounds of poor Eſquire <hi>Thynn</hi> may make him bleed, and he may cry out as <hi>David</hi> did for <hi>Abſalom,</hi> would to God I had died for thee oh <hi>Thynn<g ref="char:punc">▪</g>
+               </hi> Well, let them alone, let them go, a fair Riddance of them; we have two Tories leſs then we had, but yet enough to perplex the Kingdom: Long have we lookt for the Dutcheſſes departure, but ſhe has ſtuck to us like Birdlime; ſhe has been long a Mote in the Kingdoms Eye, and now the true Proteſtants cry out, bleſſed be God our Plague is removed<g ref="char:punc">▪</g> But whilſt they ſing this Song, millions of skulking Pa<g ref="char:EOLhyphen"/>piſts are praying to the Virgin <hi>Mary,</hi> and to all the Saints, even to Saint <hi>Coleman,</hi> and Saint <hi>Staly,</hi> for her ſafe journy and her ſpeedy re<g ref="char:EOLhyphen"/>turn. But how pray I,</p>
+            <pb facs="tcp:42242:2" rendition="simple:additions"/>
+            <p> That ſhe that has long been the Enliſh Plague, may now become the French Peſtilence; that ſhe that has been our grief, may be their ſor<g ref="char:EOLhyphen"/>row; that ſhe that has draind our purſes of their Coyne and our hearts<g ref="char:punc">▪</g> of our comforts, may eaſe us hereafter by her abſence, and Plague the Monſieurs by her preſence; when ſhe gets as much from <hi>France,</hi> as ſhe has carryed to <hi>France,</hi> then let her come and wellcome; till then let her keep her kind <hi>Lewes</hi> and ſend us over 10000 deſpiſed Prote<g ref="char:EOLhyphen"/>ſtants inſteed of her, though we beg to maintain them. As for the pretty little kidd, the ſilly innocent Lamb, that followed the Ewe, may he go and return in ſafety; his tender years are not capable of thoſe Villanous practices now on foot; he has not yet imbib'd his Mothers Tenets, nor Scuck'd in the Poyſon of her perverſe Principles; he's unacquainted with Poyſoning, ſtabbing, Shooting, and maſſacring; pray Heavens he be not gone over to learn their Trade, his early years are unacquain<g ref="char:EOLhyphen"/>ted with Plots, and Conſpiracyes; he hardly knows a Preiſt from a Jeſuit nor a Jeſuit from a Devil; but ill egging makes ill begging, Cat after kind the proverb ſays; I pray God he may have the innocency of his Father but not the Pollicy of his Mother<g ref="char:punc">▪</g> In ſhort, I wiſh him to be as good as handſom; as noble in his actions as he is great in his Titles. And as for his Illuſtrions Mother, rather then ſhe ſhould return to add miſery to our miſery by ſome new invented Sham Plots, may the pow<g ref="char:EOLhyphen"/>ers above move <hi>Neptune</hi> with his trident to peirce the Ship between wind and water, that ſhe may fairly fall and foully riſe; may the ſands be her bed, and may ſhe be diſappointed of that Splended Tomb, that a Vertuous perſon of her quality might merit, may ſhe be rockt to and fro, with the waves till one joint refuſes to take hold of another; but hold it may be ſhe is gone to <hi>France,</hi> to follow the Counteſs of <hi>Cleavelands</hi> ſteps; may be ſhe is weary of a Vicious life, and has betaken her ſelf to a Solitary Retirement<g ref="char:punc">▪</g> Oh bleſs my ears with this news<g ref="char:punc">▪</g> I wiſh all of her perſwaſion would retire from our Borders, that we might ſit peaceably under our own Vines, and with ſome content eat the fruit of our own Labours; but I doubt we ſhall have no ſuch plumbs fall this year. Wel<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> if ſhe comes again let it be by Night, or elſe the Tarpollians at <hi>Wap<g ref="char:EOLhyphen"/>ping</hi> will go nigh to ſtick their Anchors in her Barge; the Scolds of <hi>Bil<g ref="char:EOLhyphen"/>lingsgate</hi> will plague her far more then either Drums or Thunder. The Scullers will be ready to give her a thouſand Broadſides, ſo that if ſhe eſcapes 999 the odd one may cool her Courage; but if they ſhould fail, how would the ſwarming Poets like incenſed Bees) ſting her to Death? One would have a touch at her Plots; another at her Houſes in <hi>Paris;</hi> one would peek at her Guinnies, another at her Religion, and all would ſtrive to make her as little as her Sins ha<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> made her great, and ſo give occaſion for ſome Fool to ſay,
+<q xml:lang="lat">Sic tranſit gloria Mundi.</q>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London</hi> Printed for <hi>J. Bayly.</hi> 1682.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
